@@ -1,0 +1,23 @@
+div.msg{
+  position: relative;
+  width: 100%;
+  height: 25px;
+}
+
+div.username {
+  position: absolute;
+  left: 0%;
+  width: 25%;
+}
+
+div.message {
+  position: absolute;
+  left: 25%;
+  width: 50%;
+}
+
+div.timestamp {
+  position: absolute;
+  left: 75%;
+  width: 25%;
+}
